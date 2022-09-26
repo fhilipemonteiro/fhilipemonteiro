@@ -4,8 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=fhilipe monteiro&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<hr/>
-
 <h2>🕹 Hobbies:</h2>
 
 <ul>
@@ -14,15 +12,11 @@
     <li>💪 Academia</li>
 </ul>
 
-<hr/>
-
 <h2>🎓 Formação:</h2>
 
 <ul>
     <li>👨‍💻 Programa Starter Full Stack Web Development - Growdev</li>
 </ul>
-
-<hr/>
 
 <h2>🧪 Experiências Profissionais:</h2>
 
@@ -30,8 +24,6 @@
     <li>🕵️‍♂️ Agente de Négocios - Stone</li>
     <li>👨‍💼 Vendedor - Mondale Auto Peças</li>
 </ul>
-
-<hr/>
 
 <h2>🚀 Skills:</h2>
 
