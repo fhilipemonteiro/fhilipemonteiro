@@ -23,6 +23,7 @@
 <ul>
     <li>🕵️‍♂️ Agente de Négocios - Stone</li>
     <li>👨‍💼 Vendedor - Mondale Auto Peças</li>
+    <li>👨‍💼 Assistente Administrativo - Ismafer</li>
 </ul>
 
 <h2>🚀 Skills:</h2>
