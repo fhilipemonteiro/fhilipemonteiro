@@ -1,3 +1,9 @@
+<section aligin='center'>
+    <a href='' alt='Linkedin' target='_blank'>
+        <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
+</section>
+
 <h1 align='center' >Hi, I'm Fhilipe Monteiro. <br> Welcome to my profile! 👋</h1>
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=fhilipemonteiro&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
